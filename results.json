@@ -1,9 +1,9 @@
 {
   "test_link": {
-    "link": null
+    "link": "https://colab.research.google.com/drive/1mZOquqVqvBeA57UZQNtuVDSrIXXIWvFL?usp=sharing"
   },
   "test_preprocess": {
-    "vocab_length": 0
+    "vocab_length": 1804
   },
   "test_build_lm": {
     "english_2_gram_length": 0,
